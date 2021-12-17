@@ -6,7 +6,7 @@ toyProjeft
 
 1. 개발환경 
  - java 1.8v
- - inteliij
+ - eclipse IDE
  - gradle
  - mariaDB
  - github
@@ -15,5 +15,7 @@ toyProjeft
 
 2. plugin
  - loombok
- - Log4j
+ - logback
+ - mybatis
+ - spring security
 =========================================================================================================
